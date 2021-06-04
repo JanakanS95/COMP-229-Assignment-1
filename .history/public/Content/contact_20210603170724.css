@@ -1,0 +1,19 @@
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align : center;
+  }
+
+  .container{
+      margin : auto;
+      width : 50%;
+      clear : both;
+  }
+
+  .container input{
+      width : 100%;
+      clear : both;
+  }
+

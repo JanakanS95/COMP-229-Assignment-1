@@ -1,0 +1,12 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1, h3, p {
+  text-align : center;
+}
+
+li{
+  float : right;
+}
+

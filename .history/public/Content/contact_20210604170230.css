@@ -1,0 +1,37 @@
+/*
+File Name: contact.css
+Name: Janakan Sivananthan
+Student Id: 301048429
+Date: June 4 2021
+*/
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  h1, p {
+    text-align : center;
+  }
+
+  .container{
+      margin : auto;
+      width : 30%;
+      padding : 10px;
+  }
+
+  .container form{
+    border-style : solid;
+  }
+  .container label{
+      display : block;
+      text-align: center;
+  }
+
+  .container input{
+      display : block;
+      margin: auto;
+  }
+
+  .container button{
+    display : block;
+    margin: auto;
+}
